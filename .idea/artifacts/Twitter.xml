@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Twitter">
+    <output-path>$PROJECT_DIR$/out/artifacts/Twitter</output-path>
+    <root id="archive" name="Twitter.war" />
+  </artifact>
+</component>
